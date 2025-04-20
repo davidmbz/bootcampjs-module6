@@ -1,5 +1,3 @@
-// ui.ts
-
 import { obtenerImagenCarta, backImage } from "./motor";
 import { Partida } from "./model";
 
